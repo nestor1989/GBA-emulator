@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Italian. -->
+<resources>
+    <string name="home_subtitle">Apri un gioco e gioca. Senza configurare niente.</string>
+    <string name="home_continue">Continua: %1$s</string>
+    <string name="home_play_bundled">Gioca a Cometa (incluso)</string>
+    <string name="home_open">Apri gioco</string>
+    <string name="home_opening">Apertura…</string>
+    <string name="home_all_files">Non vedi il tuo gioco? Mostra tutti i file</string>
+    <string name="home_licenses">Licenze open source</string>
+    <string name="home_support">♥ Sostieni il progetto</string>
+    <string name="home_supporter_badge">♥ Sostenitore</string>
+    <string name="home_customize">Temi e icone</string>
+
+    <string name="error_not_a_game">Questo file non contiene un gioco compatibile.</string>
+    <string name="error_rar">I file .rar non sono ancora supportati. Estrai il file e apri il gioco che contiene.</string>
+    <string name="error_read">Impossibile leggere il file. Prova ad aprirlo di nuovo.</string>
+    <string name="error_too_big">Il file è troppo grande per essere un gioco.</string>
+    <string name="error_missing">Non troviamo l\'ultimo gioco. Aprilo di nuovo.</string>
+    <string name="error_start">Impossibile avviare il gioco.</string>
+
+    <string name="game_menu">Menu</string>
+    <string name="game_turbo">⏩ Turbo</string>
+    <string name="game_turbo_on">⏩ Turbo ×%1$d</string>
+    <string name="game_save">Salva</string>
+    <string name="game_load">Carica</string>
+
+    <string name="action_cancel">Annulla</string>
+
+    <string name="menu_resume">Continua a giocare</string>
+    <string name="menu_save_state">Salva stato</string>
+    <string name="menu_load_state">Carica stato</string>
+    <string name="menu_exit">Esci</string>
+    <string name="menu_cheats">Trucchi</string>
+    <string name="menu_import_save">Importa salvataggio da un altro emulatore</string>
+    <string name="menu_export_save">Esporta salvataggio (.sav)</string>
+    <string name="menu_restore_save">Torna al salvataggio precedente</string>
+    <string name="menu_save_folder">Cartella dei salvataggi</string>
+
+    <string name="turbo_muted_hint">Turbo ×%1$d: l\'audio torna quando lo disattivi.</string>
+
+    <string name="cheats_title">Trucchi</string>
+    <string name="cheats_empty">Nessun trucco per ora. Funzionano i codici GameShark, Action Replay e CodeBreaker.</string>
+    <string name="cheats_add">Aggiungi trucco</string>
+    <string name="cheats_done">Fatto</string>
+
+    <string name="cheat_new_title">Nuovo trucco</string>
+    <string name="cheat_name_hint">Nome (facoltativo)</string>
+    <string name="cheat_code_hint">Codice (una o più righe)</string>
+    <string name="cheat_save">Salva</string>
+    <string name="cheat_invalid">Questo codice non è valido. Controlla che sia completo.</string>
+    <string name="cheat_unnamed">Trucco %1$d</string>
+    <string name="cheat_delete_confirm">Eliminare «%1$s»?</string>
+    <string name="cheat_delete">Elimina</string>
+
+    <string name="import_guide_title">Importa salvataggio</string>
+    <string name="import_guide_body">Scegli il file di salvataggio dell\'altro emulatore. Per questo gioco di solito si chiama:\n\n«%1$s.sav» (o .srm se usavi RetroArch)\n\nMy Boy!, VBA e la maggior parte degli emulatori lo tengono nella stessa cartella del gioco.</string>
+    <string name="import_guide_folder">Il selettore si apre in quella cartella.</string>
+    <string name="import_guide_states">Prima di cambiare, salva dentro il gioco nell\'altro emulatore: gli stati salvati non si possono importare.</string>
+    <string name="import_pick">Scegli file</string>
+    <string name="import_confirm_file">File: «%1$s»</string>
+    <string name="import_name_mismatch">Attenzione: il nome non corrisponde a quello del gioco. Se non era il salvataggio giusto, puoi tornare al precedente dal menu.</string>
+    <string name="import_confirm_title">Usare questo salvataggio?</string>
+    <string name="import_confirm_body">Sostituisce il salvataggio di %1$s e il gioco si riavvia. Quello attuale resta conservato: puoi tornarci dal menu.</string>
+    <string name="import_button">Importa</string>
+    <string name="import_ok">Salvataggio importato. Il gioco si è riavviato.</string>
+    <string name="import_bad">Questo file non è un salvataggio di questo gioco.</string>
+    <string name="import_state">Questo file sembra uno stato salvato di un altro emulatore. Si possono importare solo i salvataggi del gioco (.sav, .srm, .gsv, .sps).</string>
+    <string name="import_read_error">Impossibile leggere il file.</string>
+
+    <string name="export_none">Questo gioco non ha ancora un salvataggio.</string>
+    <string name="export_ok">Salvataggio esportato.</string>
+    <string name="export_error">Impossibile esportare il salvataggio.</string>
+
+    <string name="restore_ok">Sei tornato al salvataggio precedente.</string>
+    <string name="restore_error">Impossibile tornare al salvataggio precedente.</string>
+
+    <string name="save_folder_prompt_title">Salvare i progressi anche in una cartella?</string>
+    <string name="save_folder_prompt_body">Così non li perdi se disinstalli l\'app o cambi telefono, e anche altri emulatori possono usarli. La scelta migliore è la cartella dove tieni i tuoi giochi.</string>
+    <string name="save_folder_again_title">Recuperare i salvataggi?</string>
+    <string name="save_folder_again_body">Usavi già una cartella dei salvataggi. Sceglila di nuovo e Play Again recupera ogni salvataggio quando apri il suo gioco.</string>
+    <string name="save_folder_choose">Scegli cartella</string>
+    <string name="save_folder_later">Non ora</string>
+    <string name="save_folder_current">I tuoi salvataggi sono anche in «%1$s», con il nome di ogni gioco.</string>
+    <string name="save_folder_change">Cambia cartella</string>
+    <string name="save_folder_disable">Non usarla più</string>
+    <string name="save_folder_close">Chiudi</string>
+    <string name="save_folder_set">Fatto: i tuoi salvataggi sono anche in «%1$s».</string>
+    <string name="save_folder_off">I salvataggi non vengono più copiati nella cartella.</string>
+    <string name="save_folder_error">Impossibile usare quella cartella. Provane un\'altra.</string>
+    <string name="save_folder_restored">Caricato il salvataggio da «%1$s».</string>
+    <string name="save_conflict_title">Quale salvataggio usiamo?</string>
+    <string name="save_conflict_body">%1$s ha due salvataggi diversi.\n\nNella tua cartella: salvato il %2$s\nNell\'app: salvato il %3$s\n\nL\'altro non va perso: puoi tornarci dal menu con «%4$s».</string>
+    <string name="save_conflict_folder">Quello della cartella</string>
+    <string name="save_conflict_app">Quello dell\'app</string>
+
+    <string name="state_saved">Stato salvato</string>
+    <string name="state_loaded">Stato caricato</string>
+    <string name="state_none">Non hai ancora salvato uno stato.</string>
+    <string name="state_error">Impossibile salvare lo stato.</string>
+
+    <string name="licenses_title">Licenze open source</string>
+
+    <string name="support_title">Sostieni il progetto</string>
+    <string name="support_body">Tutto in questo emulatore è gratis e lo resterà: turbo, trucchi, salvataggi e tutto quello che verrà. Se ti piace, puoi sostenerlo.</string>
+    <string name="support_pack_title">Pacchetto Sostenitore</string>
+    <string name="support_pack_items">• 6 temi per i comandi\n• 2 nuove icone per l\'app\n• Badge «♥ Sostenitore» nella schermata iniziale</string>
+    <string name="support_pack_note">Pagamento unico. Non sblocca funzioni: è decorazione e un grazie.</string>
+    <string name="support_buy">Acquista · %1$s</string>
+    <string name="support_owned">È tuo. Grazie!</string>
+    <string name="support_pending">Pagamento in sospeso. Il pacchetto si attiva quando Google Play lo conferma.</string>
+    <string name="support_loading">Connessione a Google Play…</string>
+    <string name="support_unavailable">Google Play non è disponibile su questo dispositivo.</string>
+    <string name="support_product_missing">Non disponibile al momento.</string>
+    <string name="support_restore">L\'hai già acquistato? Ripristina acquisto</string>
+    <string name="support_restore_ok">Il tuo Pacchetto Sostenitore è attivo.</string>
+    <string name="support_restore_none">Non troviamo il pacchetto in questo account Google.</string>
+    <string name="support_restore_error">Impossibile connettersi a Google Play. Riprova più tardi.</string>
+    <string name="support_themes_title">Tema dei comandi</string>
+    <string name="support_icons_title">Icona dell\'app</string>
+    <string name="support_locked">Incluso nel Pacchetto Sostenitore.</string>
+    <string name="support_icon_confirm_title">Cambiare l\'icona?</string>
+    <string name="support_icon_confirm_body">Può richiedere qualche secondo. Su alcuni telefoni, se avevi l\'app nella schermata Home, dovrai aggiungerla di nuovo.</string>
+    <string name="support_icon_change">Cambia</string>
+    <string name="support_tips_title">Lascia una mancia</string>
+    <string name="support_tips_body">Un pagamento unico che non sblocca nulla: aiuta solo il progetto ad andare avanti. Lasciane quante vuoi.</string>
+    <string name="support_tip_small">☕ %1$s</string>
+    <string name="support_tip_medium">🍕 %1$s</string>
+    <string name="support_tip_large">🎮 %1$s</string>
+    <string name="support_thanks_title">Grazie!</string>
+    <string name="support_thanks_pack">Il Pacchetto Sostenitore è tuo. Scegli un tema e un\'icona qui sotto.</string>
+    <string name="support_thanks_tip">Grazie per la mancia! Aiuta il progetto ad andare avanti.</string>
+    <string name="support_pending_toast">Il pagamento è in sospeso. Il pacchetto si attiva da solo quando Google Play lo conferma.</string>
+    <string name="support_error">Impossibile completare l\'acquisto. Riprova.</string>
+    <string name="support_footer">I pagamenti sono gestiti da Google Play.</string>
+
+    <string name="theme_classic">Classico</string>
+    <string name="theme_midnight">Mezzanotte</string>
+    <string name="theme_mint">Menta</string>
+    <string name="theme_coral">Corallo</string>
+    <string name="theme_amber">Ambra</string>
+    <string name="theme_sand">Sabbia</string>
+    <string name="theme_carbon">Carbone</string>
+
+    <string name="icon_classic">Classico</string>
+    <string name="icon_night">Notte</string>
+    <string name="icon_coral">Corallo</string>
+</resources>

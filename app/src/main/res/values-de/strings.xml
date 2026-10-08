@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- German. -->
+<resources>
+    <string name="home_subtitle">Spiel öffnen und loslegen. Ohne Einstellungen.</string>
+    <string name="home_continue">Weiterspielen: %1$s</string>
+    <string name="home_play_bundled">Cometa spielen (enthalten)</string>
+    <string name="home_open">Spiel öffnen</string>
+    <string name="home_opening">Wird geöffnet…</string>
+    <string name="home_all_files">Spiel nicht dabei? Alle Dateien anzeigen</string>
+    <string name="home_licenses">Open-Source-Lizenzen</string>
+    <string name="home_support">♥ Projekt unterstützen</string>
+    <string name="home_supporter_badge">♥ Unterstützer</string>
+    <string name="home_customize">Designs und Icons</string>
+
+    <string name="error_not_a_game">Diese Datei enthält kein kompatibles Spiel.</string>
+    <string name="error_rar">.rar-Dateien werden noch nicht unterstützt. Entpacke die Datei und öffne das Spiel darin.</string>
+    <string name="error_read">Die Datei konnte nicht gelesen werden. Versuch es noch einmal.</string>
+    <string name="error_too_big">Die Datei ist zu groß für ein Spiel.</string>
+    <string name="error_missing">Das letzte Spiel wurde nicht gefunden. Öffne es erneut.</string>
+    <string name="error_start">Das Spiel konnte nicht gestartet werden.</string>
+
+    <string name="game_menu">Menü</string>
+    <string name="game_turbo">⏩ Turbo</string>
+    <string name="game_turbo_on">⏩ Turbo ×%1$d</string>
+    <string name="game_save">Speichern</string>
+    <string name="game_load">Laden</string>
+
+    <string name="action_cancel">Abbrechen</string>
+
+    <string name="menu_resume">Weiterspielen</string>
+    <string name="menu_save_state">Savestate speichern</string>
+    <string name="menu_load_state">Savestate laden</string>
+    <string name="menu_exit">Beenden</string>
+    <string name="menu_cheats">Cheats</string>
+    <string name="menu_import_save">Spielstand aus anderem Emulator importieren</string>
+    <string name="menu_export_save">Spielstand exportieren (.sav)</string>
+    <string name="menu_restore_save">Zum vorherigen Spielstand zurück</string>
+    <string name="menu_save_folder">Ordner für Spielstände</string>
+
+    <string name="turbo_muted_hint">Turbo ×%1$d: Der Ton kommt zurück, wenn du ihn ausschaltest.</string>
+
+    <string name="cheats_title">Cheats</string>
+    <string name="cheats_empty">Noch keine Cheats. GameShark-, Action-Replay- und CodeBreaker-Codes funktionieren.</string>
+    <string name="cheats_add">Cheat hinzufügen</string>
+    <string name="cheats_done">Fertig</string>
+
+    <string name="cheat_new_title">Neuer Cheat</string>
+    <string name="cheat_name_hint">Name (optional)</string>
+    <string name="cheat_code_hint">Code (eine oder mehrere Zeilen)</string>
+    <string name="cheat_save">Speichern</string>
+    <string name="cheat_invalid">Dieser Code ist ungültig. Prüfe, ob er vollständig ist.</string>
+    <string name="cheat_unnamed">Cheat %1$d</string>
+    <string name="cheat_delete_confirm">„%1$s“ löschen?</string>
+    <string name="cheat_delete">Löschen</string>
+
+    <string name="import_guide_title">Spielstand importieren</string>
+    <string name="import_guide_body">Wähle die Spielstand-Datei deines anderen Emulators. Für dieses Spiel heißt sie meist:\n\n„%1$s.sav“ (oder .srm, wenn du RetroArch benutzt hast)\n\nMy Boy!, VBA und die meisten Emulatoren legen sie im selben Ordner wie das Spiel ab.</string>
+    <string name="import_guide_folder">Die Auswahl öffnet sich in diesem Ordner.</string>
+    <string name="import_guide_states">Speichere vor dem Wechsel im Spiel selbst im anderen Emulator: Savestates lassen sich nicht importieren.</string>
+    <string name="import_pick">Datei auswählen</string>
+    <string name="import_confirm_file">Datei: „%1$s“</string>
+    <string name="import_name_mismatch">Achtung: Der Name passt nicht zum Spiel. War es der falsche Spielstand, kannst du im Menü zum vorherigen zurück.</string>
+    <string name="import_confirm_title">Diesen Spielstand verwenden?</string>
+    <string name="import_confirm_body">Er ersetzt den Spielstand von %1$s und das Spiel startet neu. Der aktuelle bleibt erhalten: Du kannst im Menü zu ihm zurück.</string>
+    <string name="import_button">Importieren</string>
+    <string name="import_ok">Spielstand importiert. Das Spiel wurde neu gestartet.</string>
+    <string name="import_bad">Diese Datei ist kein Spielstand für dieses Spiel.</string>
+    <string name="import_state">Diese Datei sieht nach einem Savestate eines anderen Emulators aus. Importieren lassen sich nur Spielstände (.sav, .srm, .gsv, .sps).</string>
+    <string name="import_read_error">Die Datei konnte nicht gelesen werden.</string>
+
+    <string name="export_none">Dieses Spiel hat noch keinen Spielstand.</string>
+    <string name="export_ok">Spielstand exportiert.</string>
+    <string name="export_error">Der Spielstand konnte nicht exportiert werden.</string>
+
+    <string name="restore_ok">Du bist zurück beim vorherigen Spielstand.</string>
+    <string name="restore_error">Zurück zum vorherigen Spielstand hat nicht geklappt.</string>
+
+    <string name="save_folder_prompt_title">Spielstände auch in einem Ordner sichern?</string>
+    <string name="save_folder_prompt_body">So gehen sie nicht verloren, wenn du die App deinstallierst oder das Handy wechselst, und andere Emulatoren können sie auch nutzen. Am besten wählst du den Ordner mit deinen Spielen.</string>
+    <string name="save_folder_again_title">Spielstände zurückholen?</string>
+    <string name="save_folder_again_body">Du hast schon einen Ordner für Spielstände benutzt. Wähle ihn erneut aus, dann holt Play Again jeden Spielstand zurück, sobald du das Spiel öffnest.</string>
+    <string name="save_folder_choose">Ordner auswählen</string>
+    <string name="save_folder_later">Jetzt nicht</string>
+    <string name="save_folder_current">Deine Spielstände liegen auch in „%1$s“, benannt nach dem jeweiligen Spiel.</string>
+    <string name="save_folder_change">Ordner ändern</string>
+    <string name="save_folder_disable">Nicht mehr verwenden</string>
+    <string name="save_folder_close">Schließen</string>
+    <string name="save_folder_set">Fertig: Deine Spielstände liegen jetzt auch in „%1$s“.</string>
+    <string name="save_folder_off">Spielstände werden nicht mehr in den Ordner kopiert.</string>
+    <string name="save_folder_error">Dieser Ordner kann nicht verwendet werden. Versuch einen anderen.</string>
+    <string name="save_folder_restored">Spielstand aus „%1$s“ geladen.</string>
+    <string name="save_conflict_title">Welchen Spielstand verwenden?</string>
+    <string name="save_conflict_body">%1$s hat zwei verschiedene Spielstände.\n\nIn deinem Ordner: gespeichert am %2$s\nIn der App: gespeichert am %3$s\n\nDer andere geht nicht verloren: Du kannst im Menü mit „%4$s“ zu ihm zurück.</string>
+    <string name="save_conflict_folder">Aus dem Ordner</string>
+    <string name="save_conflict_app">Aus der App</string>
+
+    <string name="state_saved">Savestate gespeichert</string>
+    <string name="state_loaded">Savestate geladen</string>
+    <string name="state_none">Du hast noch keinen Savestate gespeichert.</string>
+    <string name="state_error">Der Savestate konnte nicht gespeichert werden.</string>
+
+    <string name="licenses_title">Open-Source-Lizenzen</string>
+
+    <string name="support_title">Projekt unterstützen</string>
+    <string name="support_body">Alles in diesem Emulator ist kostenlos und bleibt es: Turbo, Cheats, Spielstände und alles, was noch kommt. Wenn er dir gefällt, kannst du ihn unterstützen.</string>
+    <string name="support_pack_title">Unterstützer-Paket</string>
+    <string name="support_pack_items">• 6 Designs für die Steuerung\n• 2 neue App-Icons\n• Abzeichen „♥ Unterstützer“ auf dem Startbildschirm</string>
+    <string name="support_pack_note">Einmalzahlung. Schaltet keine Funktionen frei: Es ist Deko und ein Dankeschön.</string>
+    <string name="support_buy">Kaufen · %1$s</string>
+    <string name="support_owned">Gehört dir. Danke!</string>
+    <string name="support_pending">Zahlung ausstehend. Das Paket wird aktiviert, sobald Google Play sie bestätigt.</string>
+    <string name="support_loading">Verbindung zu Google Play…</string>
+    <string name="support_unavailable">Google Play ist auf diesem Gerät nicht verfügbar.</string>
+    <string name="support_product_missing">Gerade nicht verfügbar.</string>
+    <string name="support_restore">Schon gekauft? Kauf wiederherstellen</string>
+    <string name="support_restore_ok">Dein Unterstützer-Paket ist aktiv.</string>
+    <string name="support_restore_none">Das Paket wurde in diesem Google-Konto nicht gefunden.</string>
+    <string name="support_restore_error">Keine Verbindung zu Google Play. Versuch es später noch einmal.</string>
+    <string name="support_themes_title">Design der Steuerung</string>
+    <string name="support_icons_title">App-Icon</string>
+    <string name="support_locked">Im Unterstützer-Paket enthalten.</string>
+    <string name="support_icon_confirm_title">Icon ändern?</string>
+    <string name="support_icon_confirm_body">Das kann ein paar Sekunden dauern. Auf manchen Handys musst du die App danach wieder zum Startbildschirm hinzufügen.</string>
+    <string name="support_icon_change">Ändern</string>
+    <string name="support_tips_title">Trinkgeld geben</string>
+    <string name="support_tips_body">Eine Einmalzahlung, die nichts freischaltet: Sie hilft nur, das Projekt am Laufen zu halten. Gib so oft, wie du willst.</string>
+    <string name="support_tip_small">☕ %1$s</string>
+    <string name="support_tip_medium">🍕 %1$s</string>
+    <string name="support_tip_large">🎮 %1$s</string>
+    <string name="support_thanks_title">Danke!</string>
+    <string name="support_thanks_pack">Das Unterstützer-Paket gehört dir. Wähle unten ein Design und ein Icon.</string>
+    <string name="support_thanks_tip">Danke für das Trinkgeld! Es hilft dem Projekt weiter.</string>
+    <string name="support_pending_toast">Deine Zahlung ist ausstehend. Das Paket wird automatisch aktiviert, sobald Google Play sie bestätigt.</string>
+    <string name="support_error">Der Kauf konnte nicht abgeschlossen werden. Versuch es noch einmal.</string>
+    <string name="support_footer">Zahlungen werden von Google Play abgewickelt.</string>
+
+    <string name="theme_classic">Klassisch</string>
+    <string name="theme_midnight">Mitternacht</string>
+    <string name="theme_mint">Minze</string>
+    <string name="theme_coral">Koralle</string>
+    <string name="theme_amber">Bernstein</string>
+    <string name="theme_sand">Sand</string>
+    <string name="theme_carbon">Kohle</string>
+
+    <string name="icon_classic">Klassisch</string>
+    <string name="icon_night">Nacht</string>
+    <string name="icon_coral">Koralle</string>
+</resources>

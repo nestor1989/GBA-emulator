@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF121418</color>
+    <color name="surface">#FF1E2128</color>
+    <color name="accent">#FF4F8CFF</color>
+    <color name="text">#FFF2F4F8</color>
+    <color name="text_muted">#FF9AA3B2</color>
+    <color name="icon_bg">#FF1B2A4A</color>
+    <color name="icon_fg">#FFF2F4F8</color>
+    <!-- Supporter pack icons -->
+    <color name="icon_bg_night">#FF0B0D12</color>
+    <color name="icon_fg_night">#FFC9D3E6</color>
+    <color name="icon_accent_night">#FF36D6E7</color>
+    <color name="icon_bg_coral">#FFF0614B</color>
+    <color name="icon_fg_coral">#FFFFFFFF</color>
+    <color name="icon_accent_coral">#FF3A1E19</color>
+    <color name="supporter">#FFFF7A8A</color>
+</resources>

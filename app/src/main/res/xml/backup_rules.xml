@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Auto Backup up to Android 11 (android:fullBackupContent). Android 12 and
+    later read data_extraction_rules.xml instead: keep both in sync.
+
+    Everything is backed up except:
+    - states/: quick save states are big, and going over the 25 MB quota stops
+      the whole backup, in-game saves included.
+    - save_folder_prompts: so a reinstall asks again for the saves folder
+      (SaveFolder.kt).
+    Games are never in the backup: they live in noBackupFilesDir (RomStore.kt).
+-->
+<full-backup-content>
+    <exclude domain="file" path="states/" />
+    <exclude domain="sharedpref" path="save_folder_prompts.xml" />
+</full-backup-content>

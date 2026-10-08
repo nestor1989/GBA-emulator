@@ -1,0 +1,30 @@
+Questa app usa software open source. Grazie ai suoi autori.
+
+mGBA
+Copyright © 2013–2026 Jeffrey Pfau.
+Licenza: Mozilla Public License 2.0 (testo completo qui sotto).
+Versione inclusa: commit {MGBA_COMMIT}
+Codice sorgente di quella versione: {MGBA_SOURCE_URL}
+Questa app non modifica i file di mGBA. Se una versione lo facesse, le modifiche verranno pubblicate accanto a quel link.
+"mGBA" è un marchio dei suoi autori; questa app non è associata né approvata da loro.
+
+Componenti inclusi in mGBA:
+• inih — Copyright © 2009–2020 Ben Hoyt. Licenza BSD a 3 clausole.
+• MiniZip — Gilles Vollant e collaboratori. Licenza zlib.
+• LZMA SDK — Igor Pavlov. Pubblico dominio.
+• MurmurHash3 — Austin Appleby. Pubblico dominio.
+
+Oboe (audio)
+Copyright © The Android Open Source Project.
+Licenza: Apache License 2.0. https://github.com/google/oboe
+
+Libreria standard di Kotlin
+Copyright © JetBrains s.r.o. e collaboratori.
+Licenza: Apache License 2.0.
+
+Google Play Billing Library e Google Play services (solo per il Pacchetto Sostenitore e le mance)
+Copyright © Google LLC. Usati secondo i termini dell'Android SDK: https://developer.android.com/studio/terms
+Includono librerie AndroidX (Copyright © The Android Open Source Project) con licenza Apache License 2.0.
+
+Questa app non include né scarica giochi commerciali né il BIOS originale della console. Usa il BIOS di alto livello (HLE) di mGBA.
+L'unico gioco incluso è Cometa, un gioco originale creato per questa app.

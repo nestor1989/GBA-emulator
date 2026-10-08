@@ -1,0 +1,25 @@
+Play Again abre tus juegos de GBA y te deja jugando tus clásicos retro en segundos. Sin configurar nada, sin cuentas y sin anuncios.
+
+Toca «Abrir juego», elige el archivo y listo: funciona con .gba, .zip y .7z, sin descomprimir. ¿Todavía no tienes un juego a mano? Play Again incluye Cometa, un shooter espacial original, para probarlo ya mismo.
+
+LO QUE TRAE
+• Turbo ×2, ×4 y ×8 para pasar rápido por los tramos lentos.
+• Trucos: pega tus códigos y actívalos o desactívalos en cada juego.
+• Partida guardada automática, como en el cartucho original, y estado rápido para guardar en cualquier momento.
+• Trae tu partida de otro emulador: importa archivos .sav y .srm. Y exporta la tuya cuando quieras.
+• Carpeta de partidas: guarda una copia de tus partidas en una carpeta que elijas, para no perderlas si reinstalas la app y usarlas también en otros emuladores.
+• Controles táctiles pensados para el pulgar: diagonales en la cruceta, A+B con un dedo y vibración.
+• Vertical con el juego a todo el ancho, u horizontal con controles transparentes.
+• Imagen nítida en cualquier tamaño de pantalla.
+
+SIN VUELTAS
+• Gratis: todas las funciones, para siempre.
+• Sin anuncios.
+• Sin permisos de almacenamiento: tú eliges cada archivo con el selector de Android.
+• Tus partidas quedan en el teléfono (y en tu carpeta de partidas, si eliges una) y entran en la copia de seguridad de Android.
+
+APOYA EL PROYECTO (OPCIONAL)
+Si te gusta, el Pack Colaborador suma temas para los controles, íconos para la app y una insignia. Es solo decoración: no bloquea nada de lo que necesitas para jugar. También puedes dejar una propina.
+
+IMPORTANTE
+Play Again no incluye juegos comerciales ni la BIOS original. Para jugar otros juegos, abre archivos que tengas legalmente. Play Again usa mGBA, un núcleo de emulación de código abierto (licencia MPL 2.0).

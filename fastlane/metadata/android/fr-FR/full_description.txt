@@ -1,0 +1,25 @@
+Play Again ouvre vos jeux GBA et vous fait rejouer à vos classiques rétro en quelques secondes. Rien à configurer, pas de compte, pas de publicité.
+
+Touchez « Ouvrir un jeu », choisissez le fichier et c'est parti : les fichiers .gba, .zip et .7z fonctionnent, sans décompression. Pas encore de jeu sous la main ? Play Again inclut Cometa, un shoot'em up spatial original, pour l'essayer tout de suite.
+
+AU PROGRAMME
+• Turbo ×2, ×4 et ×8 pour accélérer les passages lents.
+• Codes de triche : collez vos codes et activez-les ou désactivez-les pour chaque jeu.
+• Sauvegarde automatique dans le jeu, comme sur la cartouche d'origine, et sauvegarde d'état rapide à tout moment.
+• Reprenez votre progression d'un autre émulateur : importez des fichiers .sav et .srm. Et exportez la vôtre quand vous voulez.
+• Dossier de sauvegardes : gardez une copie de vos sauvegardes dans le dossier de votre choix, pour ne pas les perdre si vous réinstallez l'app et pour les utiliser aussi dans d'autres émulateurs.
+• Commandes tactiles pensées pour les pouces : diagonales sur la croix, A+B d'un seul doigt et vibration.
+• En portrait avec le jeu sur toute la largeur, ou en paysage avec des commandes transparentes.
+• Une image nette sur toutes les tailles d'écran.
+
+SANS PRISE DE TÊTE
+• Gratuit : toutes les fonctions, pour toujours.
+• Sans publicité.
+• Aucune autorisation de stockage : vous choisissez chaque fichier avec le sélecteur d'Android.
+• Vos sauvegardes restent sur votre téléphone (et dans votre dossier de sauvegardes, si vous en choisissez un) et font partie de la sauvegarde Android.
+
+SOUTENIR LE PROJET (FACULTATIF)
+Si vous aimez, le Pack Soutien ajoute des thèmes pour les commandes, des icônes pour l'app et un badge. C'est uniquement décoratif : rien de ce qui sert à jouer n'est bloqué. Vous pouvez aussi laisser un pourboire.
+
+IMPORTANT
+Play Again n'inclut ni jeux commerciaux ni le BIOS original. Pour jouer à d'autres jeux, ouvrez des fichiers que vous possédez légalement. Play Again utilise mGBA, un moteur d'émulation open source (licence MPL 2.0).

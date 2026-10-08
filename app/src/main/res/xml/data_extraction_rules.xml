@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Backup and phone-to-phone transfer from Android 12 on. See backup_rules.xml
+    for older versions: keep both in sync.
+
+    Cloud backup leaves out the save states (25 MB quota). A direct transfer to
+    a new phone has no quota, so it takes them along.
+-->
+<data-extraction-rules>
+    <cloud-backup>
+        <exclude domain="file" path="states/" />
+        <exclude domain="sharedpref" path="save_folder_prompts.xml" />
+    </cloud-backup>
+    <device-transfer>
+        <exclude domain="sharedpref" path="save_folder_prompts.xml" />
+    </device-transfer>
+</data-extraction-rules>

@@ -1,0 +1,1 @@
+Prima versione: apre file .gba, .zip e .7z, turbo, trucchi, importazione ed esportazione dei salvataggi, cartella dei salvataggi e Cometa incluso per provarlo.

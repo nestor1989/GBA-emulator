@@ -1,0 +1,1 @@
+First release: opens .gba, .zip and .7z files, turbo, cheats, save import and export, a saves folder that survives reinstalls, and Cometa included to try it out.

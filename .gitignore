@@ -1,0 +1,22 @@
+# Gradle / Android Studio
+.gradle/
+build/
+/local.properties
+.idea/
+*.iml
+.DS_Store
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Native host test build
+/build-host/
+
+# QA-only homebrew lives here locally, never in git
+app/src/debug/assets/demo/*
+!app/src/debug/assets/demo/.gitkeep
+keystore.properties

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- French. -->
+<resources>
+    <string name="home_subtitle">Ouvrez un jeu et jouez. Rien à configurer.</string>
+    <string name="home_continue">Continuer : %1$s</string>
+    <string name="home_play_bundled">Jouer à Cometa (inclus)</string>
+    <string name="home_open">Ouvrir un jeu</string>
+    <string name="home_opening">Ouverture…</string>
+    <string name="home_all_files">Votre jeu n\'apparaît pas ? Afficher tous les fichiers</string>
+    <string name="home_licenses">Licences open source</string>
+    <string name="home_support">♥ Soutenir le projet</string>
+    <string name="home_supporter_badge">♥ Soutien</string>
+    <string name="home_customize">Thèmes et icônes</string>
+
+    <string name="error_not_a_game">Ce fichier ne contient pas de jeu compatible.</string>
+    <string name="error_rar">Les fichiers .rar ne sont pas encore pris en charge. Décompressez-le et ouvrez le jeu qu\'il contient.</string>
+    <string name="error_read">Impossible de lire le fichier. Réessayez de l\'ouvrir.</string>
+    <string name="error_too_big">Le fichier est trop volumineux pour être un jeu.</string>
+    <string name="error_missing">Le dernier jeu est introuvable. Ouvrez-le à nouveau.</string>
+    <string name="error_start">Impossible de lancer le jeu.</string>
+
+    <string name="game_menu">Menu</string>
+    <string name="game_turbo">⏩ Turbo</string>
+    <string name="game_turbo_on">⏩ Turbo ×%1$d</string>
+    <string name="game_save">Sauver</string>
+    <string name="game_load">Charger</string>
+
+    <string name="action_cancel">Annuler</string>
+
+    <string name="menu_resume">Reprendre</string>
+    <string name="menu_save_state">Sauvegarder l\'état</string>
+    <string name="menu_load_state">Charger l\'état</string>
+    <string name="menu_exit">Quitter</string>
+    <string name="menu_cheats">Codes de triche</string>
+    <string name="menu_import_save">Importer une sauvegarde d\'un autre émulateur</string>
+    <string name="menu_export_save">Exporter la sauvegarde (.sav)</string>
+    <string name="menu_restore_save">Revenir à la sauvegarde précédente</string>
+    <string name="menu_save_folder">Dossier de sauvegardes</string>
+
+    <string name="turbo_muted_hint">Turbo ×%1$d : le son revient quand vous le désactivez.</string>
+
+    <string name="cheats_title">Codes de triche</string>
+    <string name="cheats_empty">Aucun code pour l\'instant. Les codes GameShark, Action Replay et CodeBreaker fonctionnent.</string>
+    <string name="cheats_add">Ajouter un code</string>
+    <string name="cheats_done">OK</string>
+
+    <string name="cheat_new_title">Nouveau code</string>
+    <string name="cheat_name_hint">Nom (facultatif)</string>
+    <string name="cheat_code_hint">Code (une ou plusieurs lignes)</string>
+    <string name="cheat_save">Enregistrer</string>
+    <string name="cheat_invalid">Ce code n\'est pas valide. Vérifiez qu\'il est complet.</string>
+    <string name="cheat_unnamed">Code %1$d</string>
+    <string name="cheat_delete_confirm">Supprimer « %1$s » ?</string>
+    <string name="cheat_delete">Supprimer</string>
+
+    <string name="import_guide_title">Importer une sauvegarde</string>
+    <string name="import_guide_body">Choisissez le fichier de sauvegarde de votre autre émulateur. Pour ce jeu, il s\'appelle généralement :\n\n« %1$s.sav » (ou .srm si vous utilisiez RetroArch)\n\nMy Boy!, VBA et la plupart des émulateurs le gardent dans le même dossier que le jeu.</string>
+    <string name="import_guide_folder">Le sélecteur s\'ouvre dans ce dossier.</string>
+    <string name="import_guide_states">Avant de changer, sauvegardez dans le jeu sur l\'autre émulateur : les sauvegardes d\'état ne peuvent pas être importées.</string>
+    <string name="import_pick">Choisir un fichier</string>
+    <string name="import_confirm_file">Fichier : « %1$s »</string>
+    <string name="import_name_mismatch">Attention : le nom ne correspond pas à celui du jeu. Si ce n\'était pas la bonne sauvegarde, vous pouvez revenir à la précédente depuis le menu.</string>
+    <string name="import_confirm_title">Utiliser cette sauvegarde ?</string>
+    <string name="import_confirm_body">Elle remplace la sauvegarde de %1$s et le jeu redémarre. L\'actuelle est conservée : vous pouvez y revenir depuis le menu.</string>
+    <string name="import_button">Importer</string>
+    <string name="import_ok">Sauvegarde importée. Le jeu a redémarré.</string>
+    <string name="import_bad">Ce fichier n\'est pas une sauvegarde de ce jeu.</string>
+    <string name="import_state">Ce fichier ressemble à une sauvegarde d\'état d\'un autre émulateur. Seules les sauvegardes du jeu peuvent être importées (.sav, .srm, .gsv, .sps).</string>
+    <string name="import_read_error">Impossible de lire le fichier.</string>
+
+    <string name="export_none">Ce jeu n\'a pas encore de sauvegarde.</string>
+    <string name="export_ok">Sauvegarde exportée.</string>
+    <string name="export_error">Impossible d\'exporter la sauvegarde.</string>
+
+    <string name="restore_ok">Vous êtes revenu à la sauvegarde précédente.</string>
+    <string name="restore_error">Impossible de revenir à la sauvegarde précédente.</string>
+
+    <string name="save_folder_prompt_title">Garder aussi vos sauvegardes dans un dossier ?</string>
+    <string name="save_folder_prompt_body">Ainsi, vous ne les perdez pas si vous désinstallez l\'app ou changez de téléphone, et d\'autres émulateurs peuvent aussi les utiliser. Le mieux est de choisir le dossier où se trouvent vos jeux.</string>
+    <string name="save_folder_again_title">Récupérer vos sauvegardes ?</string>
+    <string name="save_folder_again_body">Vous utilisiez déjà un dossier de sauvegardes. Choisissez-le à nouveau et Play Again récupère chaque sauvegarde à l\'ouverture de son jeu.</string>
+    <string name="save_folder_choose">Choisir un dossier</string>
+    <string name="save_folder_later">Plus tard</string>
+    <string name="save_folder_current">Vos sauvegardes sont aussi gardées dans « %1$s », au nom de chaque jeu.</string>
+    <string name="save_folder_change">Changer de dossier</string>
+    <string name="save_folder_disable">Ne plus l\'utiliser</string>
+    <string name="save_folder_close">Fermer</string>
+    <string name="save_folder_set">C\'est fait : vos sauvegardes sont aussi gardées dans « %1$s ».</string>
+    <string name="save_folder_off">Les sauvegardes ne sont plus copiées dans le dossier.</string>
+    <string name="save_folder_error">Impossible d\'utiliser ce dossier. Essayez-en un autre.</string>
+    <string name="save_folder_restored">Sauvegarde chargée depuis « %1$s ».</string>
+    <string name="save_conflict_title">Quelle sauvegarde utiliser ?</string>
+    <string name="save_conflict_body">%1$s a deux sauvegardes différentes.\n\nDans votre dossier : enregistrée le %2$s\nDans l\'app : enregistrée le %3$s\n\nL\'autre n\'est pas perdue : vous pouvez y revenir depuis le menu avec « %4$s ».</string>
+    <string name="save_conflict_folder">Celle du dossier</string>
+    <string name="save_conflict_app">Celle de l\'app</string>
+
+    <string name="state_saved">État sauvegardé</string>
+    <string name="state_loaded">État chargé</string>
+    <string name="state_none">Vous n\'avez pas encore sauvegardé d\'état.</string>
+    <string name="state_error">Impossible de sauvegarder l\'état.</string>
+
+    <string name="licenses_title">Licences open source</string>
+
+    <string name="support_title">Soutenir le projet</string>
+    <string name="support_body">Tout dans cet émulateur est gratuit et le restera : turbo, codes de triche, sauvegardes et tout ce qui viendra. Si vous l\'aimez, vous pouvez le soutenir.</string>
+    <string name="support_pack_title">Pack Soutien</string>
+    <string name="support_pack_items">• 6 thèmes pour les commandes\n• 2 nouvelles icônes pour l\'app\n• Badge « ♥ Soutien » sur l\'écran d\'accueil</string>
+    <string name="support_pack_note">Paiement unique. Il ne débloque aucune fonction : c\'est de la décoration et un merci.</string>
+    <string name="support_buy">Acheter · %1$s</string>
+    <string name="support_owned">Il est à vous. Merci !</string>
+    <string name="support_pending">Paiement en attente. Le pack s\'activera dès que Google Play l\'aura confirmé.</string>
+    <string name="support_loading">Connexion à Google Play…</string>
+    <string name="support_unavailable">Google Play n\'est pas disponible sur cet appareil.</string>
+    <string name="support_product_missing">Indisponible pour le moment.</string>
+    <string name="support_restore">Déjà acheté ? Restaurer l\'achat</string>
+    <string name="support_restore_ok">Votre Pack Soutien est actif.</string>
+    <string name="support_restore_none">Le pack est introuvable sur ce compte Google.</string>
+    <string name="support_restore_error">Connexion à Google Play impossible. Réessayez plus tard.</string>
+    <string name="support_themes_title">Thème des commandes</string>
+    <string name="support_icons_title">Icône de l\'app</string>
+    <string name="support_locked">Inclus dans le Pack Soutien.</string>
+    <string name="support_icon_confirm_title">Changer l\'icône ?</string>
+    <string name="support_icon_confirm_body">Cela peut prendre quelques secondes. Sur certains téléphones, si l\'app était sur l\'écran d\'accueil, vous devrez l\'ajouter à nouveau.</string>
+    <string name="support_icon_change">Changer</string>
+    <string name="support_tips_title">Laisser un pourboire</string>
+    <string name="support_tips_body">Un paiement unique qui ne débloque rien : il aide simplement le projet à continuer. Laissez-en autant que vous voulez.</string>
+    <string name="support_tip_small">☕ %1$s</string>
+    <string name="support_tip_medium">🍕 %1$s</string>
+    <string name="support_tip_large">🎮 %1$s</string>
+    <string name="support_thanks_title">Merci !</string>
+    <string name="support_thanks_pack">Le Pack Soutien est à vous. Choisissez un thème et une icône ci-dessous.</string>
+    <string name="support_thanks_tip">Merci pour le pourboire ! Il aide le projet à continuer.</string>
+    <string name="support_pending_toast">Votre paiement est en attente. Le pack s\'activera tout seul dès que Google Play l\'aura confirmé.</string>
+    <string name="support_error">Impossible de finaliser l\'achat. Réessayez.</string>
+    <string name="support_footer">Les paiements sont traités par Google Play.</string>
+
+    <string name="theme_classic">Classique</string>
+    <string name="theme_midnight">Minuit</string>
+    <string name="theme_mint">Menthe</string>
+    <string name="theme_coral">Corail</string>
+    <string name="theme_amber">Ambre</string>
+    <string name="theme_sand">Sable</string>
+    <string name="theme_carbon">Carbone</string>
+
+    <string name="icon_classic">Classique</string>
+    <string name="icon_night">Nuit</string>
+    <string name="icon_coral">Corail</string>
+</resources>

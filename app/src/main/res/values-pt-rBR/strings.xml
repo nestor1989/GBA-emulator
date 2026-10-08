@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Portuguese (Brazil). -->
+<resources>
+    <string name="home_subtitle">Abra um jogo e jogue. Sem configurar nada.</string>
+    <string name="home_continue">Continuar: %1$s</string>
+    <string name="home_play_bundled">Jogar Cometa (incluso)</string>
+    <string name="home_open">Abrir jogo</string>
+    <string name="home_opening">Abrindo…</string>
+    <string name="home_all_files">Seu jogo não aparece? Ver todos os arquivos</string>
+    <string name="home_licenses">Licenças de código aberto</string>
+    <string name="home_support">♥ Apoie o projeto</string>
+    <string name="home_supporter_badge">♥ Apoiador</string>
+    <string name="home_customize">Temas e ícones</string>
+
+    <string name="error_not_a_game">Esse arquivo não tem um jogo compatível.</string>
+    <string name="error_rar">Arquivos .rar ainda não são compatíveis. Descompacte e abra o jogo que está dentro.</string>
+    <string name="error_read">Não foi possível ler o arquivo. Tente abrir de novo.</string>
+    <string name="error_too_big">O arquivo é grande demais para ser um jogo.</string>
+    <string name="error_missing">Não encontramos o último jogo. Abra de novo.</string>
+    <string name="error_start">Não foi possível iniciar o jogo.</string>
+
+    <string name="game_menu">Menu</string>
+    <string name="game_turbo">⏩ Turbo</string>
+    <string name="game_turbo_on">⏩ Turbo ×%1$d</string>
+    <string name="game_save">Salvar</string>
+    <string name="game_load">Carregar</string>
+
+    <string name="action_cancel">Cancelar</string>
+
+    <string name="menu_resume">Continuar jogando</string>
+    <string name="menu_save_state">Salvar estado</string>
+    <string name="menu_load_state">Carregar estado</string>
+    <string name="menu_exit">Sair</string>
+    <string name="menu_cheats">Cheats</string>
+    <string name="menu_import_save">Importar save de outro emulador</string>
+    <string name="menu_export_save">Exportar save (.sav)</string>
+    <string name="menu_restore_save">Voltar ao save anterior</string>
+    <string name="menu_save_folder">Pasta de saves</string>
+
+    <string name="turbo_muted_hint">Turbo ×%1$d: o som volta quando você desativar.</string>
+
+    <string name="cheats_title">Cheats</string>
+    <string name="cheats_empty">Nenhum cheat ainda. Funcionam códigos GameShark, Action Replay e CodeBreaker.</string>
+    <string name="cheats_add">Adicionar cheat</string>
+    <string name="cheats_done">Pronto</string>
+
+    <string name="cheat_new_title">Novo cheat</string>
+    <string name="cheat_name_hint">Nome (opcional)</string>
+    <string name="cheat_code_hint">Código (uma ou mais linhas)</string>
+    <string name="cheat_save">Salvar</string>
+    <string name="cheat_invalid">Esse código não é válido. Confira se está completo.</string>
+    <string name="cheat_unnamed">Cheat %1$d</string>
+    <string name="cheat_delete_confirm">Excluir “%1$s”?</string>
+    <string name="cheat_delete">Excluir</string>
+
+    <string name="import_guide_title">Importar save</string>
+    <string name="import_guide_body">Escolha o arquivo de save do seu outro emulador. Para este jogo, ele costuma se chamar:\n\n“%1$s.sav” (ou .srm se você usava o RetroArch)\n\nMy Boy!, VBA e a maioria dos emuladores o guardam na mesma pasta do jogo.</string>
+    <string name="import_guide_folder">O seletor abre nessa pasta.</string>
+    <string name="import_guide_states">Antes de trocar, salve dentro do jogo no outro emulador: estados salvos não podem ser importados.</string>
+    <string name="import_pick">Escolher arquivo</string>
+    <string name="import_confirm_file">Arquivo: “%1$s”</string>
+    <string name="import_name_mismatch">Atenção: o nome não bate com o do jogo. Se não era o save certo, você pode voltar ao anterior pelo menu.</string>
+    <string name="import_confirm_title">Usar este save?</string>
+    <string name="import_confirm_body">Ele substitui o save de %1$s e o jogo reinicia. O atual fica guardado: você pode voltar a ele pelo menu.</string>
+    <string name="import_button">Importar</string>
+    <string name="import_ok">Save importado. O jogo reiniciou.</string>
+    <string name="import_bad">Esse arquivo não é um save deste jogo.</string>
+    <string name="import_state">Esse arquivo parece um estado salvo de outro emulador. Só é possível importar saves do jogo (.sav, .srm, .gsv, .sps).</string>
+    <string name="import_read_error">Não foi possível ler o arquivo.</string>
+
+    <string name="export_none">Este jogo ainda não tem save.</string>
+    <string name="export_ok">Save exportado.</string>
+    <string name="export_error">Não foi possível exportar o save.</string>
+
+    <string name="restore_ok">Você voltou ao save anterior.</string>
+    <string name="restore_error">Não foi possível voltar ao save anterior.</string>
+
+    <string name="save_folder_prompt_title">Guardar seus saves também numa pasta?</string>
+    <string name="save_folder_prompt_body">Assim você não perde nada se desinstalar o app ou trocar de celular, e outros emuladores também podem usá-los. O ideal é escolher a pasta onde estão seus jogos.</string>
+    <string name="save_folder_again_title">Recuperar seus saves?</string>
+    <string name="save_folder_again_body">Você já usava uma pasta de saves. Escolha-a de novo e o Play Again recupera cada save quando você abrir o jogo.</string>
+    <string name="save_folder_choose">Escolher pasta</string>
+    <string name="save_folder_later">Agora não</string>
+    <string name="save_folder_current">Seus saves também ficam em “%1$s”, com o nome de cada jogo.</string>
+    <string name="save_folder_change">Trocar pasta</string>
+    <string name="save_folder_disable">Deixar de usar</string>
+    <string name="save_folder_close">Fechar</string>
+    <string name="save_folder_set">Pronto: seus saves também ficam em “%1$s”.</string>
+    <string name="save_folder_off">Os saves não são mais copiados para a pasta.</string>
+    <string name="save_folder_error">Não foi possível usar essa pasta. Tente outra.</string>
+    <string name="save_folder_restored">O save de “%1$s” foi carregado.</string>
+    <string name="save_conflict_title">Qual save vamos usar?</string>
+    <string name="save_conflict_body">%1$s tem dois saves diferentes.\n\nNa sua pasta: salvo em %2$s\nNo app: salvo em %3$s\n\nO outro não se perde: você pode voltar a ele pelo menu em “%4$s”.</string>
+    <string name="save_conflict_folder">Da pasta</string>
+    <string name="save_conflict_app">Do app</string>
+
+    <string name="state_saved">Estado salvo</string>
+    <string name="state_loaded">Estado carregado</string>
+    <string name="state_none">Você ainda não salvou um estado.</string>
+    <string name="state_error">Não foi possível salvar o estado.</string>
+
+    <string name="licenses_title">Licenças de código aberto</string>
+
+    <string name="support_title">Apoie o projeto</string>
+    <string name="support_body">Tudo neste emulador é grátis e vai continuar assim: turbo, cheats, saves e tudo o que vier. Se você gosta, pode apoiar.</string>
+    <string name="support_pack_title">Pacote Apoiador</string>
+    <string name="support_pack_items">• 6 temas para os controles\n• 2 ícones novos para o app\n• Selo “♥ Apoiador” na tela inicial</string>
+    <string name="support_pack_note">Pagamento único. Não libera funções: é decoração e um obrigado.</string>
+    <string name="support_buy">Comprar · %1$s</string>
+    <string name="support_owned">Já é seu. Obrigado!</string>
+    <string name="support_pending">Pagamento pendente. O pacote é ativado quando o Google Play confirmar.</string>
+    <string name="support_loading">Conectando ao Google Play…</string>
+    <string name="support_unavailable">O Google Play não está disponível neste dispositivo.</string>
+    <string name="support_product_missing">Indisponível no momento.</string>
+    <string name="support_restore">Já comprou? Restaurar compra</string>
+    <string name="support_restore_ok">Seu Pacote Apoiador está ativo.</string>
+    <string name="support_restore_none">Não encontramos o pacote nesta conta do Google.</string>
+    <string name="support_restore_error">Não foi possível conectar ao Google Play. Tente mais tarde.</string>
+    <string name="support_themes_title">Tema dos controles</string>
+    <string name="support_icons_title">Ícone do app</string>
+    <string name="support_locked">Vem com o Pacote Apoiador.</string>
+    <string name="support_icon_confirm_title">Trocar o ícone?</string>
+    <string name="support_icon_confirm_body">Pode levar alguns segundos. Em alguns celulares, se o app estava na tela inicial, você vai precisar adicioná-lo de novo.</string>
+    <string name="support_icon_change">Trocar</string>
+    <string name="support_tips_title">Deixe uma gorjeta</string>
+    <string name="support_tips_body">Um pagamento único que não libera nada: só ajuda o projeto a continuar. Deixe quantas quiser.</string>
+    <string name="support_tip_small">☕ %1$s</string>
+    <string name="support_tip_medium">🍕 %1$s</string>
+    <string name="support_tip_large">🎮 %1$s</string>
+    <string name="support_thanks_title">Obrigado!</string>
+    <string name="support_thanks_pack">O Pacote Apoiador é seu. Escolha um tema e um ícone abaixo.</string>
+    <string name="support_thanks_tip">Obrigado pela gorjeta! Ajuda o projeto a continuar.</string>
+    <string name="support_pending_toast">Seu pagamento ficou pendente. O pacote é ativado sozinho quando o Google Play confirmar.</string>
+    <string name="support_error">Não foi possível concluir a compra. Tente de novo.</string>
+    <string name="support_footer">Os pagamentos são processados pelo Google Play.</string>
+
+    <string name="theme_classic">Clássico</string>
+    <string name="theme_midnight">Meia-noite</string>
+    <string name="theme_mint">Menta</string>
+    <string name="theme_coral">Coral</string>
+    <string name="theme_amber">Âmbar</string>
+    <string name="theme_sand">Areia</string>
+    <string name="theme_carbon">Carvão</string>
+
+    <string name="icon_classic">Clássico</string>
+    <string name="icon_night">Noite</string>
+    <string name="icon_coral">Coral</string>
+</resources>

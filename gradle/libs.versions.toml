@@ -1,0 +1,13 @@
+[versions]
+# AGP 9.1 needs Android Studio Panda 2 (2025.3.2) or newer and Gradle 9.3.1+.
+# Kotlin is built into AGP 9: no org.jetbrains.kotlin.android plugin.
+agp = "9.1.1"
+# Play Billing 8+ is mandatory for new uploads since 31 Aug 2026.
+billing = "9.1.0"
+
+[libraries]
+billing = { group = "com.android.billingclient", name = "billing", version.ref = "billing" }
+
+[plugins]
+android-application = { id = "com.android.application", version.ref = "agp" }
+android-library = { id = "com.android.library", version.ref = "agp" }

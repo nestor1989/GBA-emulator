@@ -1,0 +1,25 @@
+Play Again opens your GBA games and has you playing your retro classics in seconds. Nothing to set up, no accounts, no ads.
+
+Tap “Open game”, pick the file and you're in: .gba, .zip and .7z files work, no unzipping needed. No game at hand yet? Play Again comes with Cometa, an original space shooter, so you can try it right away.
+
+WHAT YOU GET
+• Turbo ×2, ×4 and ×8 to speed through the slow parts.
+• Cheats: paste your codes and switch them on or off for each game.
+• Automatic in-game saves, just like the original cartridge, plus a quick save state for any moment.
+• Bring your progress from another emulator: import .sav and .srm files. Export yours whenever you like.
+• Saves folder: keep a copy of your saves in a folder you choose, so you don't lose them if you reinstall the app, and other emulators can use them too.
+• Touch controls built for thumbs: diagonals on the D-pad, A+B with one finger, and vibration.
+• Portrait with the game at full width, or landscape with see-through controls.
+• A sharp image on any screen size.
+
+NO STRINGS ATTACHED
+• Free: every feature, for good.
+• No ads.
+• No storage permissions: you pick each file with Android's file picker.
+• Your saves stay on your phone (and in your saves folder, if you choose one) and are part of Android's backup.
+
+SUPPORT THE PROJECT (OPTIONAL)
+If you like it, the Supporter Pack adds control themes, app icons and a badge. It's decoration only: nothing you need to play is locked. You can also leave a tip.
+
+IMPORTANT
+Play Again does not include commercial games or the original BIOS. To play other games, open files you legally own. Play Again uses mGBA, an open source emulation core (MPL 2.0 license).

@@ -1,0 +1,1 @@
+Primeira versão: abre .gba, .zip e .7z, turbo, cheats, importar e exportar saves, pasta de saves e Cometa incluso para testar.

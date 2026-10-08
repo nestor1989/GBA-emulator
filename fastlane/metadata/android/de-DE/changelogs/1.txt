@@ -1,0 +1,1 @@
+Erste Version: öffnet .gba-, .zip- und .7z-Dateien, Turbo, Cheats, Spielstände importieren und exportieren, Ordner für Spielstände und Cometa zum Ausprobieren.
